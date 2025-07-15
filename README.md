@@ -93,6 +93,9 @@ python verify.py -f [file path here] [file name with extension] --hash [input yo
 Conclusion
 In conclusion, we learnt some concepts regarding the data integrity and how it can affect the data or file of any company or organization. we also learn about some of the drawbacks that we may have if we implement a system to deal and verify the data integrity, apart from all that we learnt the most important concept which was learning how we can verify the integrity of the files using digest or hash methods such as MD5, SHA-256 etc. along which example code to verify the integrity of a file.
 
+OUTPUT
+
+<img width="1070" height="266" alt="Image" src="https://github.com/user-attachments/assets/b8a6f382-f835-4614-9b48-9d14d2ff019a" />
 
 
 
